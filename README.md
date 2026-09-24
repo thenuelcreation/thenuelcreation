@@ -73,7 +73,7 @@ I believe in learning by building, sharing knowledge through my work, and creati
 
 I'm open to opportunities where I can contribute as a Frontend Engineer, UI Engineer, or Software Engineer, collaborate with talented teams, build meaningful products, and continue growing as an engineer.
 
-📄 View My Resume
+📄 [View My Resume](./Emmanuel_Uchechi_Okam_CV.pdf)
 📫 Email: emichyartzwork@gmail.com
 
 ---
