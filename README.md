@@ -27,13 +27,34 @@ I believe in learning by building, sharing knowledge through my work, and creati
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
-### ⚙️ Backend & APIs
+- Responsive Design
+- Accessibility
+- Wireframing & Prototyping
+- Design Systems
+- User-Centered Design
+- Design-to-Code
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite" />
+
+- SQL
+- Backend Integration
 
 ### 🛠️ Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+
+- Agile Development
+- GitHub Collaboration
+- Open-Source Development
+
+### 🔌 APIs & Authentication
+
+- REST APIs
+- API Integration
+- Authentication & Authorization
+- JSON Web Tokens (JWT)
 
 🌱 **Currently**
 
