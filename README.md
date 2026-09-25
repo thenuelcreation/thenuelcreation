@@ -17,48 +17,19 @@ I believe in learning by building, sharing knowledge through my work, and creati
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Intern or Junior level).
 
-🚀 **What I Work With**
+🚀 What I Work With
 
-*Frontend*:
+Frontend
+[ TS ] [ JS ] [ React ] [ Tailwind ] [ HTML ] [ CSS ] [ Router ] [ Vite ]
 
--TypeScript
--JavaScript
--React
--Tailwind CSS
--Responsive Web Design
--Accessibility
--React Router
--Vite
+UI/UX & Design
+[ Figma ] [ Responsive Design ] [ Accessibility ]
 
-**UI/UX & Design**
+Backend & APIs
+[ Node ] [ Express ] [ PostgreSQL ] [ REST ] [ SQL ] [ JWT ]
 
--Figma
--Wireframing & Prototyping
--Design Systems
--Responsive Interface Design
--User-Centered Design
--Design-to-Code Implementation
-
-**Tools & Workflow**
-
--Git & GitHub
--VS Code
--npm
--Vercel
--Agile Development
--GitHub Collaboration
--Open-Source Development
-
-**Backend & APIs**
-
--Node.js
--Express.js
--REST APIs
--API Integration
--PostgreSQL
--SQL
--Authentication & Authorization
--JSON Web Tokens (JWT)
+Tools & Workflow
+[ Git ] [ GitHub ] [ VS Code ] [ npm ] [ Vercel ] 
 
 🌱 **Currently**
 
