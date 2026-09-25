@@ -19,17 +19,21 @@ I believe in learning by building, sharing knowledge through my work, and creati
 
 🚀 What I Work With
 
-Frontend
-[ TS ] [ JS ] [ React ] [ Tailwind ] [ HTML ] [ CSS ] [ Router ] [ Vite ]
+Frontend:
+
+-TypeScript -JavaScript -React -Tailwind CSS -Responsive Web Design -Accessibility -React Router -Vite
 
 UI/UX & Design
-[ Figma ] [ Responsive Design ] [ Accessibility ]
 
-Backend & APIs
-[ Node ] [ Express ] [ PostgreSQL ] [ REST ] [ SQL ] [ JWT ]
+-Figma -Wireframing & Prototyping -Design Systems -Responsive Interface Design -User-Centered Design -Design-to-Code Implementation
 
 Tools & Workflow
-[ Git ] [ GitHub ] [ VS Code ] [ npm ] [ Vercel ] 
+
+-Git & GitHub -VS Code -npm -Vercel -Agile Development -GitHub Collaboration -Open-Source Development
+
+Backend & APIs
+
+-Node.js -Express.js -REST APIs -API Integration -PostgreSQL -SQL -Authentication & Authorization -JSON Web Tokens (JWT)
 
 🌱 **Currently**
 
