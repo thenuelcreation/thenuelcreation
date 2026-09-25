@@ -19,21 +19,21 @@ I believe in learning by building, sharing knowledge through my work, and creati
 
 🚀 What I Work With
 
-Frontend:
+### Frontend
 
--TypeScript -JavaScript -React -Tailwind CSS -Responsive Web Design -Accessibility -React Router -Vite
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vite" />
 
-UI/UX & Design
+### 🎨 UI/UX & Design
 
--Figma -Wireframing & Prototyping -Design Systems -Responsive Interface Design -User-Centered Design -Design-to-Code Implementation
+<img src="https://skillicons.dev/icons?i=figma" />
 
-Tools & Workflow
+### ⚙️ Backend & APIs
 
--Git & GitHub -VS Code -npm -Vercel -Agile Development -GitHub Collaboration -Open-Source Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
 
-Backend & APIs
+### 🛠️ Tools & Workflow
 
--Node.js -Express.js -REST APIs -API Integration -PostgreSQL -SQL -Authentication & Authorization -JSON Web Tokens (JWT)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
 
 🌱 **Currently**
 
